@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "31d05b54b692abe0164dd925ac67cc1dd7dbdbb0b44f8299ab5a9555c966e3ff"
+
+[[files]]
+file = "install_from_url_list.sh"
+hash = "6cb9d647113fa157b0198085cc725a74a90ad2a93b236337723621ed05d63626"
+
+[[files]]
+file = "mod_url_list.txt"
+hash = "c3deb3232a2f6f689d66a997310b53d48cdb708ef3b2fb3b4226b858cb8c8601"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
