@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/release.yml"
-hash = "77b3dfe370a05c1b1d444e31f2ce1c40eea09de95c7e23b89e581cba4fa087b0"
+hash = "d08ef37a8a469d3bc16f9543207b54f2461e37eb1f26d046077fdc7fa79eec58"
 
 [[files]]
 file = "install_from_url_list.sh"
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/veil.pw.toml"
-hash = "7fc272526017c9a6df2bb70ba8b60e4061fcbdb21572343963056cc7396baae3"
+hash = "fdfe39948f48da1518b38de133d164f6004cb65fe6b344fd5a9fda0eaba51063"
 metafile = true
 
 [[files]]
