@@ -1,13 +1,12 @@
-name = "Fish Bowl Packwiz"
-author = "Parker"
-version = "0.1.1"
+name = "fish-bowl"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7ba6da8c6f227dfbdc8e5f2abbe7fe2c975d78adb00b0cbc76453f7021623d06"
+hash = "cc281e4badf76d3e932e5240da1fbe7406f3dfac86e7103be418c9fc179fe18c"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.227"
+neoforge = "21.1.233"
