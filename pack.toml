@@ -1,11 +1,11 @@
 name = "fish-bowl"
-version = "0.2.2"
+version = "0.2.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1b3fcb179bf4a415854097b5b51a4e9759488ad0348a48ee5e235d916f6a604a"
+hash = "82736664d072ca3fca00121038ba8e4e80d8380c3f98dba839407d21ecc3b1ba"
 
 [versions]
 minecraft = "1.21.1"

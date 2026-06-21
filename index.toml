@@ -108,6 +108,11 @@ hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "ed85b2ed42beb6523223eef6f0ae397ed29f8059b2bf5aa08d8598de04865614"
+metafile = true
+
+[[files]]
 file = "mods/iris-veil-compat.pw.toml"
 hash = "70ced2c48045dc299e69b0b0a469f993f744a44bba1422c4a64780515dab3da9"
 metafile = true
